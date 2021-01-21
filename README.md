@@ -1,2 +1,2 @@
 # blockchain-apps
-Simple blockchain apps, which I do for learning purposes.
+Simple blockchain apps, which I build for learning purposes.
