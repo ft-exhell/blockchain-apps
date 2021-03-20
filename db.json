@@ -1,6 +1,31 @@
 {
-  "name": "Torn Map Lv. 1",
-  "description": "A piece of the map that will reveal the available rooms in the temple. Where the rest of the map should be? ",
-  "animation_url": "ipfs://ipfs/QmUJkYqwb8Qi3zM9MJMtCBs3JcYGFE523Myjg81Vwkzg2T/animation.mp4",
-  "image": "ipfs://ipfs/QmUJkYqwb8Qi3zM9MJMtCBs3JcYGFE523Myjg81Vwkzg2T/image.gif"
+"posts": [
+{
+"id": 1,
+"title": "Post 1"
+},
+{
+"id": 2,
+"title": "Post 2"
+},
+{
+"id": 3,
+"title": "Post 3"
+}
+],
+"comments": [
+{
+"id": 1,
+"body": "some comment",
+"postId": 1
+},
+{
+"id": 2,
+"body": "some comment",
+"postId": 1
+}
+],
+"profile": {
+"name": "typicode"
+}
 }
